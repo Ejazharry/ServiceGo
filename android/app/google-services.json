@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119584828730",
+    "project_id": "auriga-78e34",
+    "storage_bucket": "auriga-78e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119584828730:android:ea10dcffbccdd7f9e37403",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119584828730-gqc7hpja55fl89dbuq2i8h9g79dgko2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2MCZ1CPH78pisnpRC-Hfbd4nAobQfZxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119584828730-gqc7hpja55fl89dbuq2i8h9g79dgko2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
